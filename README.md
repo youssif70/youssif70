@@ -25,4 +25,30 @@ class YoussifHassan {
   }
 }
 ---------------------
-## 🧰 Tech Toolbox <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" /> </p>
+## 🧰 Tech Toolbox
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+### 💻 Other Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
+</p>
+
