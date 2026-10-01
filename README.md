@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=650&height=60&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+EDA+%7C+Visualization;Turning+Raw+Data+Into+Useful+Insights" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=29B6F6\&center=true\&vCenter=true\&width=650\&height=60\&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+EDA+%7C+Visualization;Turning+Raw+Data+Into+Useful+Insights)](https://github.com/youssif70)
 
 <br/>
 
@@ -30,17 +30,7 @@ I work with **Python, SQL, Excel, and Power BI** to clean data, explore patterns
 
 My approach is not only about writing code. I focus on understanding the **business question**, preparing the data correctly, choosing the right analysis, and presenting the results clearly.
 
-I'm currently building practical projects around **Data Analysis, Business Intelligence, SQL, and Power BI**, while developing my skills through real-world datasets and end-to-end projects.
-
-### What I Work With
-
-* 🐍 **Python:** Pandas, NumPy, Matplotlib, Seaborn
-* 🗄️ **SQL:** MySQL, SQL Server, Joins, CTEs, Window Functions
-* 📊 **Power BI:** DAX, Power Query, Data Modeling, Dashboards
-* 📈 **Excel:** Pivot Tables, Data Cleaning, Analysis
-* 📉 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-* 🧹 **Data Preparation:** Cleaning, Transformation, Feature Engineering
-* 🔎 **Analysis:** EDA, KPIs, Trends, Correlation, Segmentation
+I'm building practical projects around **Data Analysis, Business Intelligence, SQL, and Power BI**, while developing my skills through real-world datasets and end-to-end projects.
 
 ---
 
@@ -58,105 +48,128 @@ I'm currently building practical projects around **Data Analysis, Business Intel
 
 ---
 
-## 📁 Featured Projects
-
-### 🇪🇬 Golden License — Egypt Data Analysis
-
-**`Python` `Pandas` `Excel` `Data Analysis` `Data Visualization`**
-
-An analytical project studying the distribution and characteristics of projects receiving Egypt's **Golden License**, with a focus on investment, sectors, locations, employment opportunities, and project status.
-
-**Key areas:**
-
-* 📍 Geographic distribution of Golden License projects
-* 🏭 Sector and industry analysis
-* 💰 Investment value analysis
-* 👥 Expected employment opportunities
-* 📊 Project status and implementation analysis
-* 🔎 Comparison between available investment and project outcomes
-* 📈 Data visualization and analytical storytelling
-
----
-
-### 🏢 Central Superstore — SQL Data Warehouse & Power BI
-
-**`SQL Server` `Power BI` `DAX` `Data Modeling` `Power Query`**
-
-An end-to-end analytics project based on the Superstore dataset.
-
-The project focuses on transforming raw sales data into a structured analytical model and building a Power BI report for business analysis.
-
-**Key areas:**
-
-* 🗄️ Dimensional data warehouse design
-* 🔗 Fact and dimension tables
-* 📅 Date dimension and date relationships
-* 🔄 Data transformation and cleaning
-* 📊 Power BI data modeling
-* 📈 Sales and profit analysis
-* 🏷️ Product category and sub-category analysis
-* 🌍 Geographic performance analysis
-* 📌 KPI development and dashboard reporting
-
----
-
-### 🛒 Superstore Data Analysis
-
-**`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`**
-
-An exploratory data analysis project focused on understanding sales and profitability using the Superstore dataset.
-
-**Key analysis:**
-
-* 💰 Sales and profit performance
-* 📊 Profit margin analysis
-* 🏷️ Category and sub-category performance
-* 🚚 Shipping duration analysis
-* 👥 Customer analysis
-* 🔎 Correlation analysis
-* 📈 Business-oriented visualizations
-
----
-
-### 🚗 Auto MPG — Exploratory Data Analysis
-
-**`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`**
-
-A practical EDA project analyzing automobile fuel efficiency and the relationship between MPG, horsepower, weight, model year, and origin.
-
-**Key areas:**
-
-* 🧹 Data cleaning and missing-value handling
-* 📊 Descriptive statistics
-* 🌍 Comparison by origin
-* ⚙️ Feature relationships
-* 🔗 Correlation analysis
-* 📅 Model-year trends
-* 🚘 Vehicle segmentation
-
----
-
 ## 🛠️ Technical Skills
 
-### 📊 Data Analysis
+### 🐍 Programming & Data Analysis
 
-`Python` `Pandas` `NumPy` `EDA` `Data Cleaning` `Feature Engineering`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Data Cleaning` `Feature Engineering`
 
 ### 🗄️ SQL & Databases
 
 `SQL` `MySQL` `SQL Server` `Joins` `CTEs` `Window Functions` `Data Modeling`
 
-### 📈 Business Intelligence
+### 📊 Business Intelligence
 
 `Power BI` `DAX` `Power Query` `Data Modeling` `KPI Development` `Dashboard Design`
 
-### 📉 Data Visualization
+### 📈 Visualization
 
 `Matplotlib` `Seaborn` `Power BI` `Tableau`
 
 ### 📋 Other Tools
 
 `Excel` `Git` `GitHub`
+
+---
+
+# 📁 Projects
+
+Here are some of my practical Data Analysis and Business Intelligence projects.
+
+---
+
+## 🏢 Central Superstore — SQL Data Warehouse & Power BI
+
+**`SQL Server` `Power BI` `DAX` `Power Query` `Data Modeling`**
+
+An end-to-end analytics project that transforms raw Superstore sales data into a structured data warehouse and Power BI reporting model.
+
+### What I worked on
+
+* 🗄️ Designed a dimensional data warehouse
+* 🔗 Created fact and dimension tables
+* 📅 Built a Date Dimension
+* 🔄 Transformed and cleaned the source data
+* 📊 Built a Power BI data model
+* 📈 Created DAX measures for business KPIs
+* 🏷️ Analyzed categories and sub-categories
+* 🌍 Analyzed geographic performance
+* 📌 Built interactive Power BI reports
+
+**Tools:** SQL Server · Power BI · DAX · Power Query
+
+🔗 **[View Project](https://github.com/youssif70)**
+
+---
+
+## 🛒 Superstore Data Analysis
+
+**`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`**
+
+An exploratory data analysis project focused on understanding sales, profitability, customers, products, and shipping performance.
+
+### What I worked on
+
+* 🧹 Cleaned and prepared the dataset
+* 📊 Performed Exploratory Data Analysis
+* 💰 Analyzed sales and profit
+* 📈 Calculated and analyzed profit margins
+* 🏷️ Compared categories and sub-categories
+* 🚚 Analyzed shipping duration
+* 👥 Explored customer performance
+* 🔗 Studied relationships between numerical variables
+* 📉 Created business-focused visualizations
+
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
+
+🔗 **[View Project](https://github.com/youssif70)**
+
+---
+
+## 🚗 Auto MPG — Exploratory Data Analysis
+
+**`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`**
+
+An exploratory analysis of automobile fuel efficiency and the relationships between MPG, horsepower, weight, model year, and vehicle origin.
+
+### What I worked on
+
+* 🧹 Data cleaning and missing-value handling
+* 📊 Descriptive statistics
+* 🌍 Comparison by vehicle origin
+* ⚙️ Feature analysis
+* 🔗 Correlation analysis
+* 📅 Model-year trends
+* 🚘 Vehicle segmentation
+* 📈 Data visualization
+
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
+
+🔗 **[View Project](https://github.com/youssif70)**
+
+---
+
+## 📊 AdventureWorks — Power BI Sales Analysis
+
+**`Power BI` `DAX` `Power Query` `Data Modeling`**
+
+A Power BI project focused on analyzing sales performance using an interactive data model and business KPIs.
+
+### What I worked on
+
+* 📊 Created DAX measures
+* 📦 Analyzed orders and order details
+* 💰 Analyzed SubTotal, Tax, Freight, and Total Due
+* 📅 Analyzed orders by date
+* 🏷️ Built Product Category and SubCategory analysis
+* 🌍 Analyzed performance by territory
+* 🔎 Created Drill Down interactions
+* 💬 Created report tooltips
+* 📈 Designed KPI cards and interactive visuals
+
+**Tools:** Power BI · DAX · Power Query
+
+🔗 **[View Project](https://github.com/youssif70)**
 
 ---
 
@@ -172,11 +185,11 @@ A practical EDA project analyzing automobile fuel efficiency and the relationshi
 
 ## 📌 Currently Working On
 
-* 📊 Building end-to-end **Data Analysis projects**
-* 🗄️ Improving **SQL and Data Warehouse** skills
-* 📈 Developing advanced **Power BI dashboards**
-* 🧠 Improving **business thinking and analytical reasoning**
-* 💼 Building a professional **Data Analyst portfolio**
+* 📊 Building end-to-end Data Analysis projects
+* 🗄️ Improving SQL and Data Warehouse skills
+* 📈 Developing advanced Power BI dashboards
+* 🧠 Improving business thinking and analytical reasoning
+* 💼 Building a professional Data Analyst portfolio
 
 ---
 
@@ -188,7 +201,7 @@ A practical EDA project analyzing automobile fuel efficiency and the relationshi
 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/youssif70)
 
-<br/>
+<br/><br/>
 
 **Data Analyst · Python · SQL · Power BI · Excel**
 
