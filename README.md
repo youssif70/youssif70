@@ -1,96 +1,195 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2A4C,50:3D5A80,100:29B6F6&height=200&section=header&text=Youssif%20Hassan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p>Welcome to my page! </br> I'm <b>Youssif Hassan</b>, Computer Science student & Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>. </p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=650&height=60&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+EDA+%7C+Visualization;Turning+Raw+Data+Into+Useful+Insights" />
 
-<h3>🚀 About Me</h3>
-<p>
-I’m passionate about <b>Web Development</b>, <b>Problem Solving</b>, and building real-world projects.  
-I enjoy working with modern web technologies, solving algorithmic challenges, and improving my skills every day.  
-Besides coding, I like reading 📚 and playing football ⚽.
-</p>
+<br/>
 
----
+[![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-1A2A4C?style=flat-square\&logo=python\&logoColor=white)](https://github.com/youssif70)
+[![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20SQL%20Server-3D5A80?style=flat-square\&logo=mysql\&logoColor=white)](https://github.com/youssif70)
+[![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-29B6F6?style=flat-square\&logo=powerbi\&logoColor=white)](https://github.com/youssif70)
+[![Excel](https://img.shields.io/badge/Excel-Analysis%20%7C%20Pivot%20Tables-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)](https://github.com/youssif70)
+[![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-1A2A4C?style=flat-square\&logo=tableau\&logoColor=white)](https://github.com/youssif70)
 
-<h3>🛠 Things I code with</h3>
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<br/><br/>
 
+![](https://img.shields.io/badge/Data%20Analysis-Python%20%7C%20Pandas-1A2A4C?style=for-the-badge)
+![](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-3D5A80?style=for-the-badge)
+![](https://img.shields.io/badge/SQL-Data%20Analysis-29B6F6?style=for-the-badge)
+
+</div>
 
 ---
 
-<h3>📌 Featured Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 PRs</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/YOUR_GITHUB/PROJECT_1"><b>My Portfolio Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR_GITHUB/PROJECT_1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR_GITHUB/PROJECT_1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR_GITHUB/PROJECT_1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/YOUR_GITHUB/PROJECT_1?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/YOUR_GITHUB/PROJECT_2"><b>Fullstack Blog App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR_GITHUB/PROJECT_2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR_GITHUB/PROJECT_2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR_GITHUB/PROJECT_2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/YOUR_GITHUB/PROJECT_2?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+## 👋 About Me
+
+Hi, I'm **Youssif Hassan**, a Data Analyst focused on turning raw data into clear and useful insights.
+
+I work with **Python, SQL, Excel, and Power BI** to clean data, explore patterns, build dashboards, and communicate findings in a simple way.
+
+My approach is not only about writing code. I focus on understanding the **business question**, preparing the data correctly, choosing the right analysis, and presenting the results clearly.
+
+I'm currently building practical projects around **Data Analysis, Business Intelligence, SQL, and Power BI**, while developing my skills through real-world datasets and end-to-end projects.
+
+### What I Work With
+
+* 🐍 **Python:** Pandas, NumPy, Matplotlib, Seaborn
+* 🗄️ **SQL:** MySQL, SQL Server, Joins, CTEs, Window Functions
+* 📊 **Power BI:** DAX, Power Query, Data Modeling, Dashboards
+* 📈 **Excel:** Pivot Tables, Data Cleaning, Analysis
+* 📉 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+* 🧹 **Data Preparation:** Cleaning, Transformation, Feature Engineering
+* 🔎 **Analysis:** EDA, KPIs, Trends, Correlation, Segmentation
 
 ---
 
-<h3>📈 My GitHub Stats</h3>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight" alt="streak stats" />
-</p>
+## 🧠 My Data Analysis Approach
+
+<div align="center">
+
+![](https://img.shields.io/badge/1-Understand%20the%20Business%20Question-1A2A4C?style=for-the-badge)
+![](https://img.shields.io/badge/2-Understand%20the%20Data-3D5A80?style=for-the-badge)
+![](https://img.shields.io/badge/3-Clean%20%26%20Transform-29B6F6?style=for-the-badge)
+![](https://img.shields.io/badge/4-Analyze%20%26%20Find%20Patterns-1A2A4C?style=for-the-badge)
+![](https://img.shields.io/badge/5-Visualize%20%26%20Communicate-3D5A80?style=for-the-badge)
+
+</div>
 
 ---
 
-<h3>🌐 Let’s Connect</h3>
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+## 📁 Featured Projects
 
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+### 🇪🇬 Golden License — Egypt Data Analysis
 
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+**`Python` `Pandas` `Excel` `Data Analysis` `Data Visualization`**
 
-  <a href="https://wa.me/201234567890" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+An analytical project studying the distribution and characteristics of projects receiving Egypt's **Golden License**, with a focus on investment, sectors, locations, employment opportunities, and project status.
+
+**Key areas:**
+
+* 📍 Geographic distribution of Golden License projects
+* 🏭 Sector and industry analysis
+* 💰 Investment value analysis
+* 👥 Expected employment opportunities
+* 📊 Project status and implementation analysis
+* 🔎 Comparison between available investment and project outcomes
+* 📈 Data visualization and analytical storytelling
 
 ---
+
+### 🏢 Central Superstore — SQL Data Warehouse & Power BI
+
+**`SQL Server` `Power BI` `DAX` `Data Modeling` `Power Query`**
+
+An end-to-end analytics project based on the Superstore dataset.
+
+The project focuses on transforming raw sales data into a structured analytical model and building a Power BI report for business analysis.
+
+**Key areas:**
+
+* 🗄️ Dimensional data warehouse design
+* 🔗 Fact and dimension tables
+* 📅 Date dimension and date relationships
+* 🔄 Data transformation and cleaning
+* 📊 Power BI data modeling
+* 📈 Sales and profit analysis
+* 🏷️ Product category and sub-category analysis
+* 🌍 Geographic performance analysis
+* 📌 KPI development and dashboard reporting
+
+---
+
+### 🛒 Superstore Data Analysis
+
+**`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`**
+
+An exploratory data analysis project focused on understanding sales and profitability using the Superstore dataset.
+
+**Key analysis:**
+
+* 💰 Sales and profit performance
+* 📊 Profit margin analysis
+* 🏷️ Category and sub-category performance
+* 🚚 Shipping duration analysis
+* 👥 Customer analysis
+* 🔎 Correlation analysis
+* 📈 Business-oriented visualizations
+
+---
+
+### 🚗 Auto MPG — Exploratory Data Analysis
+
+**`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`**
+
+A practical EDA project analyzing automobile fuel efficiency and the relationship between MPG, horsepower, weight, model year, and origin.
+
+**Key areas:**
+
+* 🧹 Data cleaning and missing-value handling
+* 📊 Descriptive statistics
+* 🌍 Comparison by origin
+* ⚙️ Feature relationships
+* 🔗 Correlation analysis
+* 📅 Model-year trends
+* 🚘 Vehicle segmentation
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analysis
+
+`Python` `Pandas` `NumPy` `EDA` `Data Cleaning` `Feature Engineering`
+
+### 🗄️ SQL & Databases
+
+`SQL` `MySQL` `SQL Server` `Joins` `CTEs` `Window Functions` `Data Modeling`
+
+### 📈 Business Intelligence
+
+`Power BI` `DAX` `Power Query` `Data Modeling` `KPI Development` `Dashboard Design`
+
+### 📉 Data Visualization
+
+`Matplotlib` `Seaborn` `Power BI` `Tableau`
+
+### 📋 Other Tools
+
+`Excel` `Git` `GitHub`
+
+---
+
+## 🎓 Learning & Certifications
+
+* **Digital Egypt Pioneers Initiative (DEPI)** — Professional Data Analyst Track
+* **Cisco** — Data Analytics Essentials
+* **IBM SkillsBuild** — Data Fundamentals
+* **Oracle** — AI for You
+* **ITI / Mahara-Tech** — Microsoft SQL Developer Path
+
+---
+
+## 📌 Currently Working On
+
+* 📊 Building end-to-end **Data Analysis projects**
+* 🗄️ Improving **SQL and Data Warehouse** skills
+* 📈 Developing advanced **Power BI dashboards**
+* 🧠 Improving **business thinking and analytical reasoning**
+* 💼 Building a professional **Data Analyst portfolio**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/youssif70)
+
+<br/>
+
+**Data Analyst · Python · SQL · Power BI · Excel**
+
+</div>
